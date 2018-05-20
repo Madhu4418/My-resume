@@ -1,3 +1,3 @@
-download the entire file contents.
-drop it in a folder.
+Download the entire file contents.
+Drop it in a dingle folder.
 Then you will be able to view the entire webpage.
